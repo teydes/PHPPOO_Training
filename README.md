@@ -1,1 +1,2 @@
-# PHPPOO_Training
+Entrainnement PHPPOO
+- Structure de base
